@@ -1,6 +1,6 @@
 # Analysis of the Best 500 Amazon Books 📚
 
-![Bookshelf](https://example.com/bookshelf.jpg)
+![Bookshelf]([https://example.com/bookshelf.jpg](https://images.app.goo.gl/DWFGFr2mQaXv9b369))
 
 This repository contains analysis and insights on the best 500 Amazon books. The analysis includes various aspects such as ratings, reviews, genres, and more.
 
